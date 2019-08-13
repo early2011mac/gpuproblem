@@ -13,9 +13,11 @@ Once again, huge thanks to langlangc for the original one.
 1. Single-User Mode
    1. Restart in single-user mode by press&hold Cmd+S (Cmd+R won't load giving the white screen)
    2. Run sh `force-iGPU-boot.sh`
+   3. Run `reboot`
 2. Recovery mode
    1. Restart in recovery mode by press&hold Cmd+r
    2. Run `force-iGPU-boot_without_sudo.sh`
+   3. Run `reboot`
 3. Single-User Mode
    1. Restart in single-user mode by press&hold Cmd+s
    2. Ensure an existing `/System/Library/Extensions-off` folder is removed after taking a backup
