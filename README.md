@@ -1,7 +1,7 @@
 # gpuproblem
 This was the problem I had been facing : https://apple.stackexchange.com/questions/267581/gpu-problem-boot-hangs-on-grey-screen, for which I was helped by one of the approaches suggested in the answer https://apple.stackexchange.com/a/360443/300460 by this user https://apple.stackexchange.com/users/251859/langlangc. I followed it first when I had this issue in last Sep2018.
 
-It was a very detailed answer with two different approaches - software & hardward - across so many different versions of OSX. 
+It was a very detailed answer with two different approaches - software & hardware modes - across so many different versions of OSX. 
 So struggled a bit to figure out the exact delta steps to be performed while upgrading next time for OSX Security update 2019-003 from 10.13.6.
 
 So, I wanted to come up with a few scripts that abstract many of those steps to make it easier for those users who might come across this issue for a second time. 
