@@ -12,7 +12,7 @@ Once again, huge thanks to langlangc for the original one.
 
 1. Single-User Mode
    1. Restart in single-user mode by press&hold Cmd+S (Cmd+R won't load giving the white screen)
-   2. Run sh `force-iGPU-boot.sh`
+   2. Run `sh force-iGPU-boot.sh`
    3. Run `reboot`
 2. Recovery mode
    1. Restart in recovery mode by press&hold Cmd+r
